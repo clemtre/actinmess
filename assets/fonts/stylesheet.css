@@ -3,10 +3,19 @@
 
 
 @font-face {
-    font-family: 'cantiquenormal';
-    src: url('cantique-normal-webfont.woff2') format('woff2'),
-         url('cantique-normal-webfont.woff') format('woff');
+    font-family: 'happytimes';
+    src: url('happy-times-NG_regular_master_web.woff2') format('woff2'),
+         url('happy-times-NG_regular_master_web.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'happytimes';
+    src: url('happy-times-NG_italic_master_web.woff2') format('woff2'),
+         url('happy-times-NG_italic_master_web.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
 
 }
