@@ -17,7 +17,7 @@ main {
     height: fit-content;
     top: 0;
     z-index: 10;
-    background-color: orangered;
+    background-color: blue;
 }
 canvas {
     overflow: hidden;
