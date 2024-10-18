@@ -43,7 +43,7 @@ canvas[Attributes Style] {
     aspect-ratio: 100vw / 100vh;
 }
 body {
-    background-color: #aaa;
+    background-color: #444;
 }
 
 * {
