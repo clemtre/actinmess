@@ -59,7 +59,7 @@ a {color:black}
 nav{padding:var(--indent);padding-top:var(--etoile)}
 nav li h3 {margin-left:calc(var(--indent) * 2)}
 nav li a {margin-left:calc(var(--indent) * 4 )}
-ol {list-style:none}
+ol {list-style:none; display:flex;flex-direction:column-reverse;}
 nav {
 	overflow-y:scroll;
 	width:fit-content;
